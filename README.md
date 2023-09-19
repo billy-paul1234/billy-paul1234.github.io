@@ -1,4 +1,4 @@
-<div style="background-color: black;">
+
  <h1 align="center">Hi 👋, I'm Billy Paul</h1>
 <h3 align="center">Highly Skilled Network Engineer🔌🖥️ and Developer👨‍💻</h3>
 
@@ -46,7 +46,7 @@
 # Projects:
 
 <div style="display: flex; justify-content: space-between; "> <a href="https://billy-paul1234.github.io/RouterRD/" target="_blank" rel="noreferrer">
-    <div style="background-color: white; padding: 10px;color: black; border-radius: 10px; flex: 1; margin: 5px;">
+    <div style="background-color: gray; padding: 10px;color: black; border-radius: 10px; flex: 1; margin: 5px;">
         <h2>RouterRD</h2>
         <b>Router Redundancy Detector:</b>
         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RouterRD tool is used to detect the two router state which uses HSRP(Hot Standby Routing Protocol) or VRRP(Virtual Router Redundancy Protocol) and send Email if any router is down.</p>
@@ -54,7 +54,7 @@
     </div>
     </a>
      <a href="https://github.com/billy-paul1234/arp-kill" target="_blank" rel="noreferrer">
-    <div style="background-color: white;color: black; padding: 10px; border-radius: 10px; flex: 1; margin: 5px;">
+    <div style="background-color: gray;color: black; padding: 10px; border-radius: 10px; flex: 1; margin: 5px;">
         <h2>Arp-Kill(Private)</h2>
         <b>Man In The Middle Attack Detection Tool:</b>
         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARP-KILL tool is used to find the man in the middle attack over the network. And find the attacker. Not only for your device, it can also detect for other devices connected in the network. And you can also kick the attacker from the network.</p>
@@ -68,14 +68,14 @@
 
 <div style="display: flex; justify-content: space-between; color: black;">
      <a href="https://billy-paul1234.github.io/flutter_calculator_vault/" target="_blank" rel="noreferrer">
-    <div style="background-color: white;color: black; padding: 10px; border-radius: 10px; flex: 1; margin: 5px;">
+    <div style="background-color: gray;color: black; padding: 10px; border-radius: 10px; flex: 1; margin: 5px;">
         <h2>Flutter calculator vault</h2>
         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This app has a Secret File system inside a Calculator.</p>
         <p><em>Author: Billy Paul</em></p>
     </div>
     </a>
      <a href="https://billy-paul1234.github.io/ResumePdfToJsonOrCsv/" target="_blank" rel="noreferrer">
-        <div style="background-color: white;color: black; padding: 10px; border-radius: 10px; flex: 1; margin: 5px;">
+        <div style="background-color: gray;color: black; padding: 10px; border-radius: 10px; flex: 1; margin: 5px;">
         <h2>Resume Pdf To Json Or Csv</h2>
         <b></b>
         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R2C and R2J is used to convert your resume PDF to CSV and JSON .</p>
@@ -91,4 +91,4 @@
 <a href="mailto:billypaul388@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="billypaul388@gmail.com" height="30" width="40" /></a>
 </p>
 
-</div>
+
