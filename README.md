@@ -115,7 +115,11 @@
     </a>
   </div>
 </div>
-<div class="row no-gutters" style="display: flex; justify-content: space-between; color: black;">
+
+
+
+
+<div class="row" style="display: flex; justify-content: space-between; color: black;">
   <div class="col-sm-2 col-md-2">
         <a href="https://billy-paul1234.github.io/flutter_calculator_vault/" target="_blank" rel="noreferrer">
     <div style="background-color: gray;color: black; padding: 10px; border-radius: 10px; flex: 1; margin: 5px;">
