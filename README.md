@@ -90,5 +90,12 @@
 <a href="https://www.leetcode.com/billy_paul123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="billy_paul123" height="30" width="40" /></a>
 <a href="mailto:billypaul388@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="billypaul388@gmail.com" height="30" width="40" /></a>
 </p>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
+
+
+<div class="row no-gutters">
+  <div class="col-sm-2 col-md-2">test</div>
+  <div class="col-sm-2 col-md-3">test</div>
+</div>
 
