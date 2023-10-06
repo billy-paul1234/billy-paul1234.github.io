@@ -94,51 +94,6 @@
 
 
 
-<div class="row" style="display: flex; justify-content: space-between; color: black;">
-  <div class="col-sm-2 col-md-2" width="50%">
-        <a href="https://billy-paul1234.github.io/flutter_calculator_vault/" target="_blank" rel="noreferrer">
-    <div style="background-color: gray;color: black; padding: 10px; border-radius: 10px; flex: 1; margin: 5px;">
-        <h2>Flutter calculator vault</h2>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This app has a Secret File system inside a Calculator.</p>
-        <p><em>Author: Billy Paul</em></p>
-    </div>
-    </a>
-  </div>
-  <div class="col-sm-2 col-md-3" width="50%">
-        <a href="https://billy-paul1234.github.io/ResumePdfToJsonOrCsv/" target="_blank" rel="noreferrer">
-        <div style="background-color: gray;color: black; padding: 10px; border-radius: 10px; flex: 1; margin: 5px;">
-        <h2>Resume Pdf To Json Or Csv</h2>
-        <b></b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R2C and R2J is used to convert your resume PDF to CSV and JSON .</p>
-        <p><em>Author: Billy Paul</em></p>
-    </div>
-    </a>
-  </div>
-</div>
-
-
-
-
-<div class="row" style="display: flex; justify-content: space-between; color: black;">
-  <div class="col-sm-2 col-md-2">
-        <a href="https://billy-paul1234.github.io/flutter_calculator_vault/" target="_blank" rel="noreferrer">
-    <div style="background-color: gray;color: black; padding: 10px; border-radius: 10px; flex: 1; margin: 5px;">
-        <h2>Flutter calculator vault</h2>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This app has a Secret File system inside a Calculator.</p>
-        <p><em>Author: Billy Paul</em></p>
-    </div>
-    </a>
-  </div>
-  <div class="col-sm-2 col-md-3">
-        <a href="https://billy-paul1234.github.io/ResumePdfToJsonOrCsv/" target="_blank" rel="noreferrer">
-        <div style="background-color: gray;color: black; padding: 10px; border-radius: 10px; flex: 1; margin: 5px;">
-        <h2>Resume Pdf To Json Or Csv</h2>
-        <b></b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R2C and R2J is used to convert your resume PDF to CSV and JSON .</p>
-        <p><em>Author: Billy Paul</em></p>
-    </div>
-    </a>
-  </div>
-</div>
+  
 
 
