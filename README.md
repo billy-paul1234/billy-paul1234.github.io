@@ -56,7 +56,7 @@
     </a>
      <a href="https://github.com/billy-paul1234/arp-kill" target="_blank" rel="noreferrer">
     <div style="background-color: gray;color: black; padding: 10px; border-radius: 10px; flex: 1; margin: 5px;">
-        <h2>Arp-Kill(Private)</h2>
+        <h2>Arp-Kill</h2>
         <b>Man In The Middle Attack Detection Tool:</b>
         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARP-KILL tool is used to find the man in the middle attack over the network. And find the attacker. Not only for your device, it can also detect for other devices connected in the network. And you can also kick the attacker from the network.</p>
         <p><em>Author: Billy Paul</em></p>
