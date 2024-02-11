@@ -1,0 +1,743 @@
+.desktop,
+.desktop * {
+  box-sizing: border-box;
+}
+.desktop {
+  background: #000000;
+  padding: 0px 43px 0px 43px;
+  height: 1866px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-36 {
+  background: #232222;
+  padding: 100px 148px 100px 148px;
+  display: flex;
+  flex-direction: row;
+  gap: 218px;
+  align-items: center;
+  justify-content: center;
+  width: 2208px;
+  height: 317px;
+  position: absolute;
+  left: calc(50% - 1104px);
+  bottom: 26px;
+}
+.footer {
+  display: flex;
+  flex-direction: row;
+  gap: 231px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.send-message {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.send-me-a-message {
+  color: #3a63f1;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 20px;
+  font-weight: 900;
+  position: relative;
+  width: 218px;
+  height: 25px;
+}
+/* 
+.frame-22 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #ff00e5;
+  border-width: 1px;
+  padding: 10px 0px 54px 7px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 218px;
+  height: 30px;
+  position: relative;
+}
+.name {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 95px);
+  bottom: 2px;
+} */
+
+
+
+/* custom start */
+
+.name {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #ff00e5;
+  border-width: 1px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 218px;
+  height: 30px;
+  position: relative;
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.name::placeholder {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.message {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #ff00e5;
+  border-width: 1px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 217px;
+  height: 72px;
+  position: relative;
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 10px; /* Add padding to match the previous design */
+}
+
+.message::placeholder {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 100.5px);
+  bottom: 45px;
+}
+.submit {
+  background: #000000;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #ff00e5;
+  border-width: 1px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 142px;
+  height: 29px;
+  position: relative;
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+
+/* custom end */
+
+
+
+.frame-34 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #ff00e5;
+  border-width: 1px;
+  padding: 10px 0px 54px 7px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 218px;
+  height: 30px;
+  position: relative;
+}
+.frame-20 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #ff00e5;
+  border-width: 1px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 217px;
+  height: 72px;
+  position: relative;
+}
+/* .message {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 100.5px);
+  bottom: 45px;
+} */
+.frame-19 {
+  background: #000000;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #ff00e5;
+  border-width: 1px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 142px;
+  height: 29px;
+  position: relative;
+}
+/* .submit {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+} */
+.sitemap {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.sitemap2 {
+  color: #3a63f1;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 20px;
+  font-weight: 900;
+  position: relative;
+  width: 116px;
+  height: 25px;
+}
+.frame-41 {
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  width: 107px;
+  height: 18px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  width: 107px;
+  height: 18px;
+}
+.projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  width: 107px;
+  height: 18px;
+}
+.all-my-pages {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  width: 107px;
+  height: 18px;
+}
+.contact-me {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.contact-me2 {
+  color: #3a63f1;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 20px;
+  font-weight: 900;
+  position: relative;
+  width: 142px;
+  height: 23px;
+}
+.frame-43 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.phone-email-linked-in-git-hub {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 97px;
+  height: 106px;
+}
+.div {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 17px;
+  height: 106px;
+}
+._916379487754-billypaul-388-gmail-com-billy-paul-1234-billy-paul-1234 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 204px;
+  height: 94px;
+}
+.frame-45 {
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 647px);
+  top: 85px;
+}
+.frame-18 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 349px;
+  height: 127px;
+  position: relative;
+}
+.welcome-to-my-portfolio {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: relative;
+  width: 340px;
+  height: 23px;
+}
+.i-am-billy-paul {
+  margin: -104px 0 0 0;
+  color: #000aff;
+  text-align: left;
+  font-family: "InknutAntiqua-ExtraBold", sans-serif;
+  font-size: 35px;
+  font-weight: 800;
+  position: relative;
+  width: 290px;
+  height: 33px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.a-friend {
+  margin: -104px 0 0 0;
+  background: linear-gradient(
+    90.93deg,
+    rgba(191, 40, 216, 1) 0%,
+    rgba(219, 0, 255, 1) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "Jua-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: relative;
+  width: 122px;
+  height: 24px;
+}
+.about2 {
+  color: #3a63f1;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 20px;
+  font-weight: 900;
+  position: relative;
+  width: 1151.5px;
+}
+.frame-24 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1280px;
+  position: relative;
+}
+.i-am-a-highly-motivated-student-with-a-strong-foundation-in-cyber-security-possessing-advanced-skills-in-threat-detection-data-protection-and-network-security-my-proficiency-extends-across-a-range-of-technical-areas-including-programming-languages-such-as-shell-script-python-java-c-c-and-dart-flutter-i-am-well-versed-in-utilizing-security-tools-like-metasploit-framework-wireshark-ettercap-aircrack-ng-and-john-the-ripper {
+  color: #6c779a;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+}
+.frame-44 {
+  display: flex;
+  flex-direction: column;
+  gap: 47px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 883px;
+  position: absolute;
+  left: calc(50% - 391px);
+  top: 558px;
+}
+.projets {
+  color: #3a63f1;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 20px;
+  font-weight: 900;
+  position: relative;
+  width: 107px;
+  height: 19.19px;
+}
+.these-are-my-personal-projets {
+  background: linear-gradient(
+    90.71deg,
+    rgba(255, 0, 229, 1) 0%,
+    rgba(219, 0, 255, 0.67) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  width: 242px;
+  height: 15.7px;
+}
+.frame-35 {
+  display: flex;
+  flex-direction: column;
+  gap: 150px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 802px;
+  height: 621.8px;
+  position: relative;
+}
+.frame-33 {
+  display: flex;
+  flex-direction: row;
+  gap: 150px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 776px;
+  position: relative;
+}
+.frame-342 {
+  background: linear-gradient(
+    180deg,
+    rgba(99, 180, 206, 1) 0%,
+    rgba(191, 40, 216, 1) 100%
+  );
+  border-radius: 10px;
+  padding: 20px 0px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 312px;
+  height: 302px;
+  position: relative;
+}
+.arp-kill-mitm-detection-and-prevention-tool {
+  color: #273978;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  width: 299px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.arp-kill-is-a-network-security-tool-countering-mitm-attacks-by-scanning-and-analyzing-network-traffic-notifies-administrators-to-disconnect-attacker {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  width: 258px;
+  height: 101px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-332 {
+  background: linear-gradient(
+    180deg,
+    rgba(99, 180, 206, 1) 0%,
+    rgba(191, 40, 216, 1) 100%
+  );
+  border-radius: 10px;
+  padding: 20px 0px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 312px;
+  height: 302px;
+  position: relative;
+}
+.router-rd-router-redundancy-detector {
+  color: #273978;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  width: 244px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.router-rd-tool-is-used-to-detect-the-two-router-state-which-uses-hsrp-hot-standby-routing-protocol-or-vrrp-virtual-router-redundancy-protocol-and-send-email-if-any-router-is-down {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  width: 253px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-343 {
+  display: flex;
+  flex-direction: row;
+  gap: 150px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 630px;
+  height: 261px;
+  position: relative;
+}
+.frame-31 {
+  background: linear-gradient(
+    180deg,
+    rgba(99, 180, 206, 1) 0%,
+    rgba(191, 40, 216, 1) 100%
+  );
+  border-radius: 10px;
+  padding: 20px 0px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 54px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 312px;
+  height: 302px;
+  position: relative;
+}
+.flutter-calculator-vault {
+  color: #273978;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+  width: 283px;
+  height: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+/* custom */
+
+
+
+.flutter-calculator-vault-is-a-mobile-application-that-combines-the-functionality-of-a-calculator-with-a-secure-file-management-system-users-can-perform-calculations-while-also-storing-and-managing-sensitive-files-securely-within-the-app {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  width: 253px;
+  height: 167px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-32 {
+  background: linear-gradient(
+    180deg,
+    rgba(99, 180, 206, 1) 0%,
+    rgba(191, 40, 216, 1) 100%
+  );
+  border-radius: 10px;
+  padding: 20px 0px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 312px;
+  height: 302px;
+  position: relative;
+}
+.resume-pdf-to-json-or-csv {
+  color: #273978;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+  width: 242px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.resume-pdf-to-json-or-csv-is-a-python-tool-that-converts-resume-pdf-files-into-csv-and-json-formats-simplifying-data-extraction-and-analysis {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  width: 253px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-37 {
+  background: #000000;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-end;
+  justify-content: center;
+  width: 2208px;
+  height: 34px;
+  position: absolute;
+  left: calc(50% - 1104px);
+  bottom: 0px;
+}
+._2024-billy-paul-s-portfolio {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  position: relative;
+  width: 132px;
+  height: 17px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
