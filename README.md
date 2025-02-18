@@ -1,99 +1,78 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<h1 align="center">Hey there! 👋 I'm Billy Paul</h1>
+<h3 align="center">🔌 SysNet Administrator | 🖥️ Developer | 🛠️ Cybersecurity Enthusiast</h3>
 
- <h1 align="center">Hi 👋, I'm Billy Paul</h1>
-<h3 align="center">Highly Skilled Network Engineer🔌🖥️ and Developer👨‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=billy-paul123&label=Profile%20views&color=0e75b6&style=flat" alt="billy-paul123" /> </p>
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billy-paul123" alt="billy-paul123" /></a> </p>
--->
 
-- 🔭 I’m currently working on [Man In The Middle Attack Detection Tool](https://github.com/billy-paul1234/arp-kill)
-  
-- 🌱 I’m currently learning **Docker, Git**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=billy-paul123&label=Profile%20views&color=0e75b6&style=flat" alt="billy-paul1234" /> </p>
 
+
+---
+
+## 🚀 About Me
+- 🔭 I’m currently Learning **Linux Kernel Development**
+- 💡 Passionate about **Networking, Linux, System Administration & Security**
 - 💬 Ask me about **Hacking, Networking, Programming**
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/billy-paul1234)**
+- 📄 Check out my **[Resume](https://github.com/user-attachments/files/18843570/GREY-IT-2.pdf)**
+- ⚡ Fun fact: **I am funny** 😆
 
-- 📫 How to reach me **billypaul388@gmail.com**
+---
 
-- 📄 Know about my experiences [My Resume](https://billypaul.tiiny.site/)
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/billy-paul1234/billy-paul1234/assets/137751689/681a4e8a-70c6-4e5e-a18e-c03287389838" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://github.com/billy-paul1234/billy-paul1234/assets/137751689/0d836366-0f0e-48c0-bb15-967565a22ea7" alt="C++" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://en.wikipedia.org/wiki/Dart_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://github.com/billy-paul1234/billy-paul1234/assets/137751689/bee67c42-f02e-4778-8d10-c0923db968fb" alt="dart" width="40" height="40"/> </a>
- <a href="https://en.wikipedia.org/wiki/Flutter_(software)" target="_blank" rel="noreferrer"> <img src="https://github.com/billy-paul1234/billy-paul1234/assets/137751689/18262145-382b-4dcc-98f9-28e155f4caa2" alt="flutter" width="40" height="40"/> </a>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-
-</p>
-
-<h3 align="left">Simulators and Emulators:</h3>
-<p align="left"> <a href="https://en.wikipedia.org/wiki/VirtualBox" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="virtual box" width="40" height="40"/> </a> 
-<a href="https://en.wikipedia.org/wiki/VMware_Workstation" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="VMware" width="40" height="40"/> </a> 
-<a href="https://en.wikipedia.org/wiki/Packet_Tracer" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Packet Tracer" width="40" height="40"/> </a>
- <a href="https://www.gns3.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" alt="GNS3" width="40" height="40"/> </a> </p>
-
-# Projects:
-
-<div style="display: flex; justify-content: space-between; "> <a href="https://billy-paul1234.github.io/RouterRD/" target="_blank" rel="noreferrer">
-    <div style="background-color: gray; padding: 10px;color: black; border-radius: 10px; flex: 1; margin: 5px;">
-        <h2>RouterRD</h2>
-        <b>Router Redundancy Detector:</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RouterRD tool is used to detect the two router state which uses HSRP(Hot Standby Routing Protocol) or VRRP(Virtual Router Redundancy Protocol) and send Email if any router is down.</p>
-        <p><em>Author: Billy Paul</em></p>
-    </div>
-    </a>
-     <a href="https://github.com/billy-paul1234/arp-kill" target="_blank" rel="noreferrer">
-    <div style="background-color: gray;color: black; padding: 10px; border-radius: 10px; flex: 1; margin: 5px;">
-        <h2>Arp-Kill</h2>
-        <b>Man In The Middle Attack Detection Tool:</b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARP-KILL tool is used to find the man in the middle attack over the network. And find the attacker. Not only for your device, it can also detect for other devices connected in the network. And you can also kick the attacker from the network.</p>
-        <p><em>Author: Billy Paul</em></p>
-    </div>
-    </a>
+## 🎓 Certifications
+- 📜 Certified Network Associate  
+- 🔐 Computer Hardware & Network Techonologies  
 
 
+## 🛠️ Languages and Tools 
 
-</div>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)   ![Iptables](https://img.shields.io/badge/Iptables-000000?style=for-the-badge&logo=linux&logoColor=white)  
 
-<div style="display: flex; justify-content: space-between; color: black;">
-     <a href="https://billy-paul1234.github.io/flutter_calculator_vault/" target="_blank" rel="noreferrer">
-    <div style="background-color: gray;color: black; padding: 10px; border-radius: 10px; flex: 1; margin: 5px;">
-        <h2>Flutter calculator vault</h2>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This app has a Secret File system inside a Calculator.</p>
-        <p><em>Author: Billy Paul</em></p>
-    </div>
-    </a>
-     <a href="https://billy-paul1234.github.io/ResumePdfToJsonOrCsv/" target="_blank" rel="noreferrer">
-        <div style="background-color: gray;color: black; padding: 10px; border-radius: 10px; flex: 1; margin: 5px;">
-        <h2>Resume Pdf To Json Or Csv</h2>
-        <b></b>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R2C and R2J is used to convert your resume PDF to CSV and JSON .</p>
-        <p><em>Author: Billy Paul</em></p>
-    </div>
-    </a>
-</div>
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🖥️ Simulators & Emulators
 <p align="left">
-<a href="https://linkedin.com/in/billy-paul-913459270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="billy-paul-913459270" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/billy_paul123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="billy_paul123" height="30" width="40" /></a>
-<a href="mailto:billypaul388@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="billypaul388@gmail.com" height="30" width="40" /></a>
+    <a href="https://www.virtualbox.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/> </a>
+    <a href="https://www.vmware.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="VMware" width="40" height="40"/> </a>
+    <a href="https://www.gns3.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" alt="GNS3" width="40" height="40"/> </a>
+    <a href="https://www.netacad.com/courses/packet-tracer" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="Packet Tracer" width="40" height="40"/> </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=billy-paul1234&show_icons=true&theme=radical" alt="Billy's GitHub stats" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=billy-paul1234&theme=radical" alt="GitHub Streak" />
 </p>
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billy-paul1234" alt="billy-paul1234" /></a> </p>
 
-  
 
 
+---
+
+
+## 🏗️ Recent Projects  
+
+- 🔹 [**ARP-KILL**](https://github.com/billy-paul1234/arp-kill) – A network security tool designed to counter MITM attacks by scanning, analyzing network traffic, and deauthenticating attackers.  
+- 🔹 [**RouterRD**](https://github.com/billy-paul1234/RouterRD) – A monitoring tool for detecting routers, sending email alerts if a router goes down.  
+- 🔹 [**Torified-WiFi**](https://github.com/billy-paul1234/Torified-WiFi) – A script to configure a WiFi dongle as an access point (AP) with DHCP, routing internet from `eth0` through Tor to anonymize user traffic.  
+- 🔹 [**Flutter Calculator Vault**](https://github.com/billy-paul1234/flutter_calculator_vault) – A mobile app integrating a calculator with a secure file management system, allowing users to perform calculations while managing sensitive files securely.  
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+    <a href="https://linkedin.com/in/billy-paul1234" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/> </a>
+    <a href="https://www.leetcode.com/billy_paul123" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/> </a>
+    <a href="mailto:billypaul388@gmail.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="40" height="40"/> </a>
+</p>
+
+---
+
+✨ Thanks for visiting my profile! Keep coding and keep learning! 🚀
