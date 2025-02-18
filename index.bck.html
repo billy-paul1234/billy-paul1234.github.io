@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Portfolio</title>
+    </head>
+    <body>
+        <script>
+        function isMobileDevice() {
+            return window.innerWidth <= 1000; 
+        }
+        function loadAppropriateHtml() {
+            if (isMobileDevice()) {
+                window.location.href = 'mobile/index.html';
+            } else {
+                window.location.href = 'desktop/index.html';
+            }
+        }
+        loadAppropriateHtml();
+    </script>
+    </body>
+</html>
